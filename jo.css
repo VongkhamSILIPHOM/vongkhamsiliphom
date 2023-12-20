@@ -1,0 +1,32 @@
+ 
+ body{
+    height: 900px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+.all{
+ align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.all1{
+width: 300px;
+height: auto;
+margin: 10px;
+}
+.container{
+    max-width: 1040px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.onta{
+    margin-top: 10px;
+}
+p{
+    margin-top: 20px;
+}
